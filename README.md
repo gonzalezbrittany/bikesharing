@@ -1,3 +1,5 @@
+[link to dashboard](https://public.tableau.com/app/profile/brittany5484/viz/NYC_Citibike_challenge_16491970430600/Story1?publish=yes)
+
 # bikesharing
 
 ## Overview:
