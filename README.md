@@ -48,7 +48,7 @@ Chart 7:
 
 ![image](https://user-images.githubusercontent.com/26393180/161859036-c6747978-fcfa-4e97-ae28-9eb754ed0369.png) ![image](https://user-images.githubusercontent.com/26393180/161859071-102d395d-16b2-4ba3-9cf7-b90680b1b473.png)
 
-The chart above shows how many times a bike has needed to be repaired. This analysis shows which bikes tend to need more repairs compared to others. 
+The chart above shows how many times a bike has needed to be repaired. To see more details in regards to what bike needed the most repair, click the following link. [link to dashboard](https://public.tableau.com/app/profile/brittany5484/viz/NYC_Citibike_challenge_16491970430600/Story1?publish=yes).
 
 ## Summary
 
@@ -60,7 +60,8 @@ The chart below shows that younger bike users tend to bike longer than older bik
 
 ![image](https://user-images.githubusercontent.com/26393180/161859361-a0c12e1a-5450-4685-b708-f5849829ccba.png)
 
-The chart below shows how many times a bike as been used. It is clear there are some bikes that users prefer compared to others.
+The chart below shows how many times a bike as been used. It is clear there are some bikes that users prefer compared to others. To see more detail in regards to what bike is used the most, click the following link.
+[link to dashboard](https://public.tableau.com/app/profile/brittany5484/viz/NYC_Citibike_challenge_16491970430600/Story1?publish=yes).
 
 ![image](https://user-images.githubusercontent.com/26393180/161859464-a8e13577-273d-47bb-9b2d-2a5a0238a071.png)
 
